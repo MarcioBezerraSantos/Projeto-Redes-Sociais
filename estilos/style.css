@@ -21,12 +21,12 @@ body {
 }
 section#telefone {
     position: absolute;
-    top: 60%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 650px;
-    width: 400px;
-    background-color: blue;
+    
+    height: 627px;
+    width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 iframe#tela {
@@ -40,7 +40,7 @@ section#redes-sociais {
     text-align: right;
 }
 section#redes-sociais img {
-    width: 40px;
+    width: 50px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
